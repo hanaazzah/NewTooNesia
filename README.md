@@ -4,5 +4,5 @@ Toonesia adalah aplikasi komik berbasis web. dimana setiap pengguna dapat membac
 
 ## Contributors
 - Hana Azzah Nur Arifah (1167050079)
-- Rifki ()
+- Rifki (1167050137)
 - Reza F (1167050133)
