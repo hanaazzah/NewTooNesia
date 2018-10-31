@@ -5,3 +5,8 @@
 .m-t{
 	padding-top: 20px;
 }
+
+hr {
+	width: 200px;
+	border-top: 3px solid #999;
+}
