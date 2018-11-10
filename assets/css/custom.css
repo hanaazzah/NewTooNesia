@@ -5,3 +5,13 @@
 .m-t{
 	padding-top: 20px;
 }
+
+hr {
+	width: 200px;
+	border-top: 3px solid #999;
+}
+
+img {
+	width: 200px;
+	border: 2px solid #70a5f9;
+}
